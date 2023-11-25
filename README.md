@@ -8,3 +8,6 @@ Helo! am shamim reza. I am passionate about full-stack developement. That is why
 ## Ranabir Devnath
 Hey! look i am contributing to the main readme file!!
 
+## Pranta Saha
+Im Pranta Saha. Joined Devops course beacuse of my learning enthusiasm about cloud & devops
+
