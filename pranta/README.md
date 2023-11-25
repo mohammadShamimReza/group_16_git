@@ -1,0 +1,1 @@
+This repo is initialized as part of assignment about git understanding.
